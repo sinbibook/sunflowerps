@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-28T01:10:44.234705573Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T14:46:00.912400802Z",
     "templateType": "trip_f",
     "propertyId": "c63ccea2-0321-417a-8eaf-d913de0a93a0",
     "homepageId": "1c81b447-b9e2-47f6-b561-c1560ed6d338"
@@ -1828,8 +1828,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "60afb30c-35c1-48d6-bc60-611ac2f8f392",
-                    "url": "https://sunflowerps.kr/assets/images/room/layout.webp",
+                    "id": "01a12120-cab8-7206-b0d3-61a138974663",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1c81b447-b9e2-47f6-b561-c1560ed6d338/layout_map_about/1791557159079-8kj6wqg8ht.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1841,6 +1841,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
