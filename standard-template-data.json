@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-10-09T14:46:00.912400802Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-09T14:48:15.975082543Z",
     "templateType": "trip_f",
     "propertyId": "c63ccea2-0321-417a-8eaf-d913de0a93a0",
     "homepageId": "1c81b447-b9e2-47f6-b561-c1560ed6d338"
@@ -1701,8 +1701,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "84471bcb-2d96-4d86-9821-9bf5946567dd",
-                    "url": "https://sunflowerps.kr/assets/images/travel/top.webp",
+                    "id": "01a12122-d9d7-7267-aca7-8ade2e0cb491",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/1c81b447-b9e2-47f6-b561-c1560ed6d338/nearby_attractions_hero/1791557293528-ef929n7g2c.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
